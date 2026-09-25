@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm Krishnesh Mathur</h1>
-<h3 align="center">Passionate about Machine Learning, Data Science, Data Structures & Algorithms and interested in contributing to Open Source</h3>
+<h1 align="center">Hi, I'm Krishnesh Mathur</h1>
 
-- 🔭 I’m currently working on **Goodwill Clothing – A cloud-based clothing donation and affordable shopping platform (Next.js, Firebase, Vercel)**
-
-- 🌱 I’m currently learning **Machine Learning Specialization (Stanford & DeepLearning.AI) & Advanced DSA & Competitive Programming**
-
-- 💬 Ask me about **Machine Learning, DSA, C++, Python, Next.js, Firebase**
-
-- 📫 How to reach me **krishneshmathur3@gmail.com**
-
-- ⚡ Fun fact **I think I’m funny… but my code has more bugs than jokes! 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishnesh mathur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnesh mathur" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnesh_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnesh_22" height="30" width="40" /></a>
+<p align="center">
+  <strong>Data Engineering • Cloud • AI</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  Computer Science undergraduate at VIT Chennai building systems around data, cloud infrastructure, and applied AI.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:krishneshmathur3@gmail.com">Email</a>
+</p>
+
+---
+
+### What I'm working with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,aws,gcp,azure,docker,terraform,pytorch,tensorflow,react,fastapi&perline=6" />
+</p>
+
+**Data:** PySpark · Spark SQL · Databricks · Delta Lake · Parquet · ETL  
+**Cloud:** AWS · Azure · GCP  
+**AI:** Machine Learning · GenAI · RAG · LangChain · LangGraph  
+**Engineering:** FastAPI · Neo4j · PostgreSQL · Docker · Terraform
+
+### A little about me
+
+Currently focused on becoming a strong **Data Engineer** — learning how data moves from raw sources to reliable systems, and how cloud and AI fit into that pipeline.
+
+I also enjoy research, building slightly over-engineered projects, and finding out how far I can push a dataset before it starts fighting back.
+
+### Featured work
+
+My main projects explore:
+
+- Multi-cloud cost optimization with rule-based + ML systems
+- Knowledge graphs and agentic clinical analytics
+- Distributed data processing and modern lakehouse technologies
+- Quantum machine learning research
+
+### Publications & recognition
+
+**Best Paper Award — ICSCPS 2026**  
+Research published/presented across cloud optimization, quantum ML, and AI for sustainable agriculture.
+
+---
+
+<p align="center">
+  <i>Still learning. Still building. Occasionally still debugging at 2 AM.</i>
+</p>
