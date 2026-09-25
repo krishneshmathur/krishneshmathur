@@ -24,7 +24,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL">
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS">
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks">
   &nbsp;&nbsp;
