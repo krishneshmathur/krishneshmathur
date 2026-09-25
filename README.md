@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/krishnesh-mathur-abab8428b/">LinkedIn</a> •
   <a href="mailto:krishneshmathur3@gmail.com">Email</a>
 </p>
 
