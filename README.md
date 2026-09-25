@@ -18,11 +18,21 @@
 ### What I'm working with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,aws,gcp,azure,docker,terraform,pytorch,tensorflow,react,fastapi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,spark,mysql,aws,databricks&perline=5" />
 </p>
 
-**Data:** PySpark · Spark SQL · Databricks · Delta Lake · Parquet · ETL  
-**Cloud:** AWS · Azure · GCP  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=langchain&perline=1" />
+</p>
+
+<p align="center">
+  <strong>Python · PySpark · MySQL</strong><br>
+  <strong>AWS · Databricks · ETL</strong><br>
+  <strong>LangChain · LangGraph</strong>
+</p>
+
+**Data:** <strong>PySpark · Spark SQL · Databricks · Delta Lake · Parquet · ETL</strong>  
+**Cloud:** <strong>AWS</strong> · Azure · GCP  
 **AI:** Machine Learning · GenAI · RAG · LangChain · LangGraph  
 **Engineering:** FastAPI · Neo4j · PostgreSQL · Docker · Terraform
 
@@ -49,5 +59,5 @@ Research published/presented across cloud optimization, quantum ML, and AI for s
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Occasionally still debugging at 2 AM.</i>
+  <i>Still learning. Still building.</i>
 </p>
