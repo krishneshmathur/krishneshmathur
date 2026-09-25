@@ -22,13 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain&perline=1" />
-</p>
-
-<p align="center">
-  <strong>Python · PySpark · MySQL</strong><br>
-  <strong>AWS · Databricks · ETL</strong><br>
-  <strong>LangChain · LangGraph</strong>
+  <strong>ETL</strong> · <strong>LangChain</strong> · <strong>LangGraph</strong>
 </p>
 
 **Data:** <strong>PySpark · Spark SQL · Databricks · Delta Lake · Parquet · ETL</strong>  
