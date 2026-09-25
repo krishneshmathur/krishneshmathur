@@ -18,13 +18,27 @@
 ### What I'm working with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,spark,mysql,aws,databricks&perline=5" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="Apache Spark">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain">
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain&perline=1" />
-  <br>
-  <strong>ETL · LangGraph</strong>
+  <strong>Python · PySpark · MySQL</strong>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>AWS · Databricks · ETL</strong>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>LangChain · LangGraph</strong>
 </p>
 
 **Data:** <strong>PySpark · Spark SQL</strong> · Databricks · Delta Lake · Parquet · ETL  
