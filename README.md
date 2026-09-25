@@ -22,13 +22,15 @@
 </p>
 
 <p align="center">
-  <strong>ETL</strong> · <strong>LangChain</strong> · <strong>LangGraph</strong>
+  <img src="https://skillicons.dev/icons?i=langchain&perline=1" />
+  <br>
+  <strong>ETL · LangGraph</strong>
 </p>
 
-**Data:** <strong>PySpark · Spark SQL · Databricks · Delta Lake · Parquet · ETL</strong>  
+**Data:** <strong>PySpark · Spark SQL</strong> · Databricks · Delta Lake · Parquet · ETL  
 **Cloud:** <strong>AWS</strong> · Azure · GCP  
 **AI:** Machine Learning · GenAI · RAG · LangChain · LangGraph  
-**Engineering:** FastAPI · Neo4j · PostgreSQL · Docker · Terraform
+**Engineering:** FastAPI · PostgreSQL · Docker · Terraform
 
 ### A little about me
 
