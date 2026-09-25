@@ -48,7 +48,7 @@
 
 ### A little about me
 
-Currently focused on becoming a strong **Data Engineer** — learning how data moves from raw sources to reliable systems, and how cloud and AI fit into that pipeline.
+Currently focused on **Data Engineering, cloud platforms, and applied AI** — with a particular interest in how raw data becomes reliable, useful systems.
 
 I also enjoy research, building slightly over-engineered projects, and finding out how far I can push a dataset before it starts fighting back.
 
@@ -64,7 +64,7 @@ My main projects explore:
 ### Publications & recognition
 
 **Best Paper Award — ICSCPS 2026**  
-Research published/presented across cloud optimization, quantum ML, and AI for sustainable agriculture.
+Published research in **cloud cost optimization, quantum machine learning, and AI for sustainable agriculture.**
 
 ---
 
