@@ -54,12 +54,10 @@ I also enjoy research, building slightly over-engineered projects, and finding o
 
 ### Featured work
 
-My main projects explore:
-
-- Multi-cloud cost optimization with rule-based + ML systems
-- Knowledge graphs and agentic clinical analytics
-- Distributed data processing and modern lakehouse technologies
-- Quantum machine learning research
+- [**MedGraph AI**](https://github.com/ProjectsKrishYashvi/MedGraph-AI) — Knowledge graphs, clinical risk prediction, and agentic analytics.
+- [**SmartCloud FinOps**](https://github.com/ProjectsKrishYashvi/SmartCloud-FinOps) — Multi-cloud cost optimization using rules and machine learning.
+- **Quantum VQC** — Quantum–classical image classification research.
+- **Data Engineering** — Distributed processing and modern lakehouse technologies.
 
 ### Publications & recognition
 
