@@ -54,10 +54,8 @@ I also enjoy research, building slightly over-engineered projects, and finding o
 
 ### Featured work
 
-- [**MedGraph AI**](https://github.com/ProjectsKrishYashvi/MedGraph-AI) — Knowledge graphs, clinical risk prediction, and agentic analytics.
-- [**SmartCloud FinOps**](https://github.com/ProjectsKrishYashvi/SmartCloud-FinOps) — Multi-cloud cost optimization using rules and machine learning.
-- **Quantum VQC** — Quantum–classical image classification research.
-- **Data Engineering** — Distributed processing and modern lakehouse technologies.
+- [**MedGraph AI**](https://github.com/ProjectsKrishYashvi/MedGraph-AI) — An end-to-end clinical analytics platform combining a Neo4j knowledge graph, XGBoost-based high-risk prediction, SHAP explanations, and retrieval-augmented generation with LangGraph. Built to connect patient data with more explainable, context-aware insights.
+- [**SmartCloud FinOps**](https://github.com/ProjectsKrishYashvi/SmartCloud-FinOps) — A multi-cloud cost optimization system that brings Azure and GCP billing data into an AWS-based analytics workflow, using S3, Athena, and Lambda alongside rule-based recommendations and an XGBoost model to identify potential savings.
 
 ### Publications & recognition
 
